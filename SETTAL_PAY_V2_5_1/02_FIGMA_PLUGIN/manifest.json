@@ -1,0 +1,15 @@
+{
+  "name": "SETTAL PAY V2.5.1 — Complete UI + Design System",
+  "id": "settalpay-v251-complete-001",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}

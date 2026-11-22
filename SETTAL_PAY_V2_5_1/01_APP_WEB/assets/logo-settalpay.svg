@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs><linearGradient id="gSig" gradientUnits="userSpaceOnUse" x1="28" y1="92" x2="72" y2="62"><stop offset="0" stop-color="#F3B706"/><stop offset="1" stop-color="#3D8652"/></linearGradient></defs>
+<path d="M62 60C40 56 26 48 32 34C38 20 70 16 90 36" fill="none" stroke="#296740" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M58 60C80 64 94 72 88 86C82 100 50 104 30 84" fill="none" stroke="url(#gSig)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M98.5 44.5L80.1 43.1L97.1 26.1Z" fill="#296740" stroke="#296740" stroke-width="4" stroke-linejoin="round"/>
+<path d="M21.5 75.5L39.9 76.9L22.9 93.9Z" fill="#F3B706" stroke="#F3B706" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="60" cy="60" r="16" fill="#F3B706" stroke="#fff" stroke-width="3"/>
+<circle cx="60" cy="60" r="9" fill="none" stroke="#00290B" stroke-opacity=".35" stroke-width="2.5"/></svg>
